@@ -19,7 +19,7 @@
     "moment": "2.20.1",
     "prop-types": "15.6.0",
     "react": "16.0.0",
-    "react-native": "0.60.0",
+    "react-native": "0.62.0",
     "react-native-keyboard-spacer": "0.4.1",
     "react-native-linear-gradient": "2.4.0",
     "react-native-progress-bar": "0.1.2",
@@ -28,7 +28,7 @@
     "react-navigation": "1.0.0",
     "victory-native": "0.15.0",
     "expo-analytics": "1.0.6",
-    "snyk": "^1.316.1"
+    "snyk": "^1.437.2"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
